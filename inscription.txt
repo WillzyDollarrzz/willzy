@@ -1,0 +1,5 @@
+\033[34mWW   WW    IIII     LL      \033[38;5;214mLL       ZZZZZZ  YY     YY\033[0m
+\033[34mWW   WW     II      LL      \033[38;5;214mLL          ZZ     YY  YY \033[0m
+\033[34mWW W WW     II      LL      \033[38;5;214mLL         ZZ       YYY  \033[0m
+\033[34mWWW WWW     II      LL      \033[38;5;214mLL        ZZ         YY  \033[0m
+\033[34mWW   WW    IIII     LLLLLL  \033[38;5;214mLLLLLL   ZZZZZZZ     YY  \033[0m
